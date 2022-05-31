@@ -2,3 +2,7 @@
 First DSCI 100 Git Repository
 
 😸
+
+We can clone our project down into our home folder! 
+Use the https URL.
+:smile:
